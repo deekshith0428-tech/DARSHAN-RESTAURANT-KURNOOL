@@ -4,8 +4,8 @@ import { Leaf, ShieldCheck, Users, Wind, Zap, BadgeDollarSign } from 'lucide-rea
 const reasons = [
   {
     icon: Leaf,
-    title: 'Pure Vegetarian',
-    desc: 'Strictly vegetarian kitchen. No eggs, no meat — ever. Certified pure veg establishment.',
+    title: 'Veg Restaurant',
+    desc: 'Strictly vegetarian kitchen. No eggs, no meat — ever. A trusted veg restaurant.',
   },
   {
     icon: ShieldCheck,

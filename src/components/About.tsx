@@ -9,7 +9,7 @@ const stats = [
 ];
 
 const features = [
-  { icon: Leaf, text: 'Pure Vegetarian kitchen with no cross-contamination' },
+  { icon: Leaf, text: 'Veg Restaurant kitchen with no cross-contamination' },
   { icon: Heart, text: 'Family-friendly ambience with premium seating' },
   { icon: ShieldCheck, text: 'Hygienic preparation using fresh ingredients' },
   { icon: Flame, text: 'Authentic recipes from South & North India' },

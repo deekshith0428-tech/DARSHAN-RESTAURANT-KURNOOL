@@ -25,7 +25,7 @@ export default function Footer() {
             </div>
             <p className="text-white/50 text-sm leading-relaxed max-w-sm mb-5">
               Authentic South Indian & North Indian Vegetarian Cuisine in the heart of Kurnool.
-              Pure vegetarian, family-friendly, and crafted with love.
+              Veg Restaurant, family-friendly, and crafted with love.
             </p>
             <div className="flex gap-3">
               {[

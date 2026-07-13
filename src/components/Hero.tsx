@@ -26,7 +26,7 @@ export default function Hero() {
         {/* Eyebrow */}
         <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full glass border border-gold/30 mb-6 animate-float">
           <Leaf className="w-4 h-4 text-gold" />
-          <span className="text-gold text-xs font-medium tracking-widest uppercase">100% Pure Vegetarian</span>
+          <span className="text-gold text-xs font-medium tracking-widest uppercase">Veg Restaurant</span>
         </div>
 
         {/* Main heading */}
@@ -77,7 +77,7 @@ export default function Hero() {
             <div className="w-8 h-8 rounded-full bg-green-800 flex items-center justify-center">
               <Leaf className="w-4 h-4 text-gold" />
             </div>
-            <p className="text-white text-sm font-semibold">Pure Vegetarian</p>
+            <p className="text-white text-sm font-semibold">Veg Restaurant</p>
           </div>
 
           <div className="glass-dark rounded-2xl px-5 py-3 flex items-center gap-3 border border-gold/20">
