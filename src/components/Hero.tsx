@@ -14,7 +14,7 @@ export default function Hero() {
       <div
         className="absolute inset-0 parallax-bg"
         style={{
-          backgroundImage: `url('/images/hero/ChatGPT_Image_Jul_9,_2026,_09_46_54_AM.png')`,
+          backgroundImage: `url('/images/hero/restaurant-hero.png')`,
         }}
       />
       {/* Dark gradient overlay */}
