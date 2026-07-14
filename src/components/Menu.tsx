@@ -44,9 +44,9 @@ const categories: Category[] = [
     id: 'baby-corn',
     label: 'Baby Corn',
     items: [
-      { name: 'Baby Corn 65', price: 160, img: pexels(105588) },
+      { name: 'Baby Corn 65', price: 160, img: '/images/gallery/Screenshot 2026-07-14 113430.png' },
       { name: 'Baby Corn Chilli', price: 160, img: pexels(3026805) },
-      { name: 'Baby Corn Manchuria', price: 160, img: pexels(15667778) },
+      { name: 'Baby Corn Manchuria', price: 160, img: '/images/gallery/Screenshot 2026-07-14 113930.png' },
       { name: 'Crispy Corn', price: 150, img: pexels(18379774) },
     ],
   },
@@ -59,6 +59,7 @@ const categories: Category[] = [
       { name: 'Paneer Majestic', price: 200, img: pexels(13788766) },
       { name: 'Paneer Manchuria', price: 200, img: pexels(17800213) },
       { name: 'Paneer Golden Fry', price: 200, img: pexels(604660) },
+      { name: 'Paneer Kurkure', price: 200, img: '/images/gallery/Screenshot 2026-07-14 112938.png' },
     ],
   },
   {

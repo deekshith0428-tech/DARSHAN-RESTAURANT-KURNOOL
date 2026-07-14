@@ -1,4 +1,5 @@
 import Navbar from './components/Navbar';
+import WhatsAppDelivery from './components/WhatsAppDelivery';
 import Hero from './components/Hero';
 import About from './components/About';
 import WhyChooseUs from './components/WhyChooseUs';
@@ -22,6 +23,7 @@ export default function App() {
       <Reviews />
       <Catering />
       <OrderOnline />
+      <WhatsAppDelivery />
       <Contact />
       <Footer />
     </div>
