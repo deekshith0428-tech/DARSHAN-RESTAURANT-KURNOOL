@@ -91,7 +91,7 @@ const categories: Category[] = [
       { name: 'Veg Kolhapuri', price: 220, img: pexels(1279330) },
       { name: 'Veg Malai Kofta', price: 250, img: 'public/images/gallery/Screenshot 2026-07-14 001516.png' },
       { name: 'Palak Paneer', price: 240, img: pexels(5410400) },
-      { name: 'Kadai Paneer', price: 240, img: "/images/gallery/Screenshot 2026-07-14 103026.png" },
+      { name: 'Kadai Paneer', price: 240, img: 'public/images/gallery/Screenshot 2026-07-14 103026.png' },
       { name: 'Paneer Butter Masala', price: 250, img: 'public/images/gallery/Screenshot 2026-07-14 102849.png' },
       { name: 'Paneer Tikka Masala', price: 240, img: 'public/images/gallery/Screenshot 2026-07-14 102716.png' },
       { name: 'Paneer Shahi Kurma', price: 250, img: 'public/images/gallery/Screenshot 2026-07-14 103201.png' },
